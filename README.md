@@ -80,8 +80,8 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 **System Analysis & ERP**: 
 ![SDLC](https://img.shields.io/badge/SDLC-1ABC9C?style=flat&logo=trello&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD-16A085?style=flat&logo=databricks&logoColor=white)
-![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
 
 **Project Management & Collaboration**: 
