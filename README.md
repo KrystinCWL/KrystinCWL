@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-  <img width="646" height="530" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="center" />  
-  
-  ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL)
+<img width="323" height="265" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="center" />  ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL)
 
 <!--
 **KrystinCWL/KrystinCWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
