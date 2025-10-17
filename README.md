@@ -19,8 +19,8 @@ I enjoy transforming complex data into actionable insights and leveraging techno
       <h3>🔎 Currently seeking</h3>
       <ul>
         <li><b>Data Analyst</b></li>
-        <li><b>Business Analyst</b></li>
         <li><b>System Analyst</b></li>
+        <li><b>Business Analyst</b></li>
         <li><b>Project Manager</b></li>
       </ul>
     </td>
