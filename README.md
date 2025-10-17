@@ -16,7 +16,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 <table width="100%">
   <tr>
     <td valign="top" width="25%">
-      <h3>🌱 Currently seeking</h3>
+      <h3>🔎 Currently seeking</h3>
       <ul>
         <li><b>Data Analyst</b></li>
         <li><b>Business Analyst</b></li>
