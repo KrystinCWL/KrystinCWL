@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
 
-<img width="40%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
+<img width="25%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
 ### 🎓 About Me  
 I’m Krystin — a passionate data-driven problem solver currently pursuing my **Master’s in Information Systems** at the **University of Maryland**.  
@@ -15,7 +15,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 <table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" width="20%">
+    <td valign="top" width="25%">
       <h3>🌱 Currently seeking</h3>
       <ul>
         <li><b>Data Analyst</b></li>
@@ -31,7 +31,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
         <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
       </ul>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="35%">
       <h3>💪 Personal Challenges</h3>
       <ul>
         <li>Waking up early to optimize productivity</li>
