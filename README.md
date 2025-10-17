@@ -1,16 +1,12 @@
-## Hi there 👋 <img width="108" height="88" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="center" />  
+## Hi there 👋 I am Krystin <img width="108" height="88" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="center" />
 
-
-
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL)
-
+![ViewCount](https://views.whatilearened.today/views/github/KrystinCWL/KrystinCWL.svg?cache=remove)
 
 <!--
 **KrystinCWL/KrystinCWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+-->
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL)
+
+
