@@ -28,7 +28,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
       <h3>🌱 Now Working On</h3>
       <ul>
         <li>Completing my Master’s degree in Information Systems</li>
-        <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
+        <li>Expanding my knowledge in <b>AI</b>, <b>Data Science</b>, and <b>Machine Learning</b></li>
       </ul>
     </td>
     <td valign="top" width="37%">
