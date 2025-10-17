@@ -52,7 +52,8 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logo=plotly&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 **Data Analytics & Visualization**: 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -90,9 +91,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-217346?style=flat&logo=microsoftplanner&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-006600?style=flat&logo=googlemeet&logoColor=white)
-![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-0D9488?style=flat&logo=googlemeet&logoColor=white)
-
+![Stakeholder Management & Communication](https://img.shields.io/badge/Stakeholder_Management_&_Communication-0D9488?style=flat&logo=googlemeet&logoColor=white)
 
 
 ---
