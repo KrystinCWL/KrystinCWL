@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
 
-<img width="40%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
+<img width="45%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
 ### 🎓 About Me  
 I’m Krystin — a passionate data-driven problem solver currently pursuing my **Master’s in Information Systems** at the **University of Maryland**.  
@@ -20,7 +20,6 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 - **Project Manager**
 
 ---
-![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL align="right" )
 
 ### 🌱 Currently Working On
 - Completing my Master’s degree in Information Systems  
@@ -36,21 +35,73 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ---
 
-### 💻 Programming Languages & Tools  
+## 🧠 Artificial Intelligence & Machine Learning  
+![LLM](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=flat&logo=openai&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-4285F4?style=flat&logo=autodesk&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat&logo=chatbot&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=scikitlearn&logoColor=F7931E)
+![API](https://img.shields.io/badge/API_Integration-005571?style=flat&logo=fastapi&logoColor=white)
 
+---
+
+## 💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logo=plotly&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Data Analytics & Visualization  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-1D4ED8?style=flat&logo=bar-chart&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data_Mining-34495E?style=flat&logo=dask&logoColor=white)
+
+---
+
+## 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=w3c&logoColor=white)
+
+---
+
+## ☁️ Big Data & Cloud  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+
+---
+
+## 🧩 System Analysis & ERP  
+![SDLC](https://img.shields.io/badge/SDLC-1ABC9C?style=flat&logo=trello&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD-16A085?style=flat&logo=databricks&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
+
+---
+
+## 🗂️ Project Management & Collaboration  
+![Agile](https://img.shields.io/badge/Agile-FF5733?style=flat&logo=scrumalliance&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat&logo=jirasoftware&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![MS Planner](https://img.shields.io/badge/MS_Planner-217346?style=flat&logo=microsoftplanner&logoColor=white)
+![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-0D9488?style=flat&logo=googlemeet&logoColor=white)
+
 
 ---
 
