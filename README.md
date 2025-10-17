@@ -64,16 +64,16 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 **Databases & NoSQL**: 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=w3c&logoColor=white)
 
 **Big Data & Cloud**: 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 
@@ -88,9 +88,9 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![Agile](https://img.shields.io/badge/Agile-FF5733?style=flat&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat&logo=jirasoftware&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
-![MS Planner](https://img.shields.io/badge/MS_Planner-217346?style=flat&logo=microsoftplanner&logoColor=white)
-![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0A9488?style=flat&logo=googlemeet&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-217346?style=flat&logo=microsoftplanner&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-006600?style=flat&logo=googlemeet&logoColor=white)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-0D9488?style=flat&logo=googlemeet&logoColor=white)
 
 
