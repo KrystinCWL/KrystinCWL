@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
 
-<img width="40%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
+<img width="50%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
 🎓 **About Me**  
 I’m Krystin — a passionate data-driven problem solver currently pursuing my **Master’s in Information Systems** at the **University of Maryland**.  
@@ -52,11 +52,6 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL&layout=compact&theme=radical)
-
-
-
-
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL)
 
 
