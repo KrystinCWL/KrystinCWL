@@ -94,7 +94,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
 
-**Project Management & Collaboration**: 
+**Project Management**: 
 ![Agile](https://img.shields.io/badge/Agile-FF5733?style=flat&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat&logo=jirasoftware&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
