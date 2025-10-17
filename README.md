@@ -71,7 +71,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=w3c&logoColor=white)
 
 **Big Data & Cloud**: 
-![GCP](https://img.shields.io/badge/Google_Cloud Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
