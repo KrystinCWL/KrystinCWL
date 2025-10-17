@@ -7,11 +7,13 @@
 
 <img width="50%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
-🎓 **About Me**  
+### 🎓 About Me  
 I’m Krystin — a passionate data-driven problem solver currently pursuing my **Master’s in Information Systems** at the **University of Maryland**.  
 I enjoy transforming complex data into actionable insights and leveraging technology to make strategic business decisions.  
 
-🔍 **Currently seeking**:  
+---
+
+### 🔍 Currently seeking  
 - **Data Analyst**  
 - **Business Analyst**  
 - **System Analyst**  
