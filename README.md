@@ -36,14 +36,14 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ---
 
 ### 💻 Programming Languages & Tools  
-🧠 **AI & Machine Learning**  
+**AI & Machine Learning**: 
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=flat&logo=openai&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-0F9D58?style=flat&logo=googleassistant&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-005571?style=flat&logo=fastapi&logoColor=white)
 
-💻 **Programming**  
+**Programming**: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -54,14 +54,14 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-📊 **Data Analytics & Visualization**  
+**Data Analytics & Visualization**: 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-1D4ED8?style=flat&logo=googleanalytics&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-2E86C1?style=flat&logo=databricks&logoColor=white)
 ![Data Mining](https://img.shields.io/badge/Data_Mining-34495E?style=flat&logo=dask&logoColor=white)
 
-🗄️ **Databases & NoSQL**  
+**Databases & NoSQL**: 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
@@ -70,26 +70,27 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=w3c&logoColor=white)
 
-☁️ **Big Data & Cloud**  
+**Big Data & Cloud**: 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
 
-🧩 **System Analysis & ERP**  
+**System Analysis & ERP**: 
 ![SDLC](https://img.shields.io/badge/SDLC-1ABC9C?style=flat&logo=trello&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD-16A085?style=flat&logo=databricks&logoColor=white)
 ![SAP ERP](https://img.shields.io/badge/SAP_ERP-0FAAFF?style=flat&logo=sap&logoColor=white)
 ![HubSpot CRM](https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=flat&logo=hubspot&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
 
-🗂️ **Project Management & Collaboration**  
+**Project Management & Collaboration**: 
 ![Agile](https://img.shields.io/badge/Agile-FF5733?style=flat&logo=scrumalliance&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=flat&logo=jirasoftware&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![MS Teams](https://img.shields.io/badge/MS_Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
 ![MS Planner](https://img.shields.io/badge/MS_Planner-217346?style=flat&logo=microsoftplanner&logoColor=white)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0A9488?style=flat&logo=googlemeet&logoColor=white)
 ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder_Communication-0D9488?style=flat&logo=googlemeet&logoColor=white)
 
 
