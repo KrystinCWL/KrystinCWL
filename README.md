@@ -15,7 +15,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 <table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" width="48%">
+    <td valign="top" width="30%">
       <h3>🌱 Currently seeking</h3>
       <ul>
         <li><b>Data Analyst</b></li>
@@ -24,14 +24,14 @@ I enjoy transforming complex data into actionable insights and leveraging techno
         <li><b>Project Manager</b></li>
       </ul>
     </td>
-    <td valign="top" width="48%">
+    <td valign="top" width="40%">
       <h3>🌱 Now Working On</h3>
       <ul>
         <li>Completing my Master’s degree in Information Systems</li>
         <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
       </ul>
     </td>
-    <td valign="top" width="48%">
+    <td valign="top" width="30%">
       <h3>💪 Personal Challenges</h3>
       <ul>
         <li>Waking up early to optimize productivity</li>
