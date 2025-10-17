@@ -2,10 +2,10 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/KrystinCWL/KrystinCWL.svg?cache=remove)
 [![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/KrystinCWL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
 
-<img width="45%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
+<img width="40%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
 🎓 **About Me**  
 I’m Krystin — a passionate data-driven problem solver currently pursuing my **Master’s in Information Systems** at the **University of Maryland**.  
