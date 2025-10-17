@@ -24,14 +24,14 @@ I enjoy transforming complex data into actionable insights and leveraging techno
         <li><b>Project Manager</b></li>
       </ul>
     </td>
-    <td valign="top" width="40%">
+    <td valign="top" width="38%">
       <h3>🌱 Now Working On</h3>
       <ul>
         <li>Completing my Master’s degree in Information Systems</li>
         <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
       </ul>
     </td>
-    <td valign="top" width="35%">
+    <td valign="top" width="37%">
       <h3>💪 Personal Challenges</h3>
       <ul>
         <li>Waking up early to optimize productivity</li>
