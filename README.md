@@ -19,8 +19,6 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 - **System Analyst**  
 - **Project Manager**
 
----
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -45,8 +43,6 @@ I enjoy transforming complex data into actionable insights and leveraging techno
     </td>
   </tr>
 </table>
-
----
 
 ### 💻 Programming Languages & Tools  
 **AI & Machine Learning**: 
