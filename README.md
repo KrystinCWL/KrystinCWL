@@ -21,17 +21,30 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ---
 
-### 🌱 Currently Working On
-- Completing my Master’s degree in Information Systems  
-- Expanding my knowledge in **AI, Data Science, and Machine Learning**  
-
----
-
-### 💪 Personal Challenges
-- Waking up early to optimize productivity  
-- Studying at least 4 hours a day  
-- Exercising 3 times a week  
-- Applying to 5 full-time positions per day  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+      <h3>🌱 Currently Working On</h3>
+      <ul>
+        <li>Completing my Master’s degree in Information Systems</li>
+        <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
+      </ul>
+      
+    </td>
+    <td valign="top" width="50%">
+      
+      <h3>💪 Personal Challenges</h3>
+      <ul>
+        <li>Waking up early to optimize productivity</li>
+        <li>Studying at least 4 hours a day</li>
+        <li>Exercising 3 times a week</li>
+        <li>Applying to 5 full-time positions per day</li>
+      </ul>
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
