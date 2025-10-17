@@ -21,7 +21,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ---
 
-<table style="width:100%; border-spacing:15px;">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>🌱 Currently Working On</h3>
