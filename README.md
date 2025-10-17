@@ -13,7 +13,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ---
 
-<table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%">
   <tr>
     <td valign="top" width="25%">
       <h3>🌱 Currently seeking</h3>
