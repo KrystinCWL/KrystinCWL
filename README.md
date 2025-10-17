@@ -19,19 +19,18 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 - **System Analyst**  
 - **Project Manager**
 
-<table>
+---
+
+<table style="width:100%; border-spacing:15px;">
   <tr>
     <td valign="top" width="50%">
-      
       <h3>🌱 Currently Working On</h3>
       <ul>
         <li>Completing my Master’s degree in Information Systems</li>
         <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
       </ul>
-      
     </td>
     <td valign="top" width="50%">
-      
       <h3>💪 Personal Challenges</h3>
       <ul>
         <li>Waking up early to optimize productivity</li>
@@ -39,10 +38,11 @@ I enjoy transforming complex data into actionable insights and leveraging techno
         <li>Exercising 3 times a week</li>
         <li>Applying to 5 full-time positions per day</li>
       </ul>
-      
     </td>
   </tr>
 </table>
+
+---
 
 ### 💻 Programming Languages & Tools  
 **AI & Machine Learning**: 
