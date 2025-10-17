@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
 
-<img width="45%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
+<img width="40%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
 ### 🎓 About Me  
 I’m Krystin — a passionate data-driven problem solver currently pursuing my **Master’s in Information Systems** at the **University of Maryland**.  
@@ -13,24 +13,25 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ---
 
-### 🔍 Currently seeking  
-- **Data Analyst**  
-- **Business Analyst**  
-- **System Analyst**  
-- **Project Manager**
-
----
-
-<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td valign="top" width="50%">
-      <h3>🌱 Currently Working On</h3>
+    <td valign="top" width="48%">
+      <h3>🌱 Currently seeking</h3>
+      <ul>
+        <li><b>Data Analyst</b></li>
+        <li><b>Business Analyst</b></li>
+        <li><b>System Analyst</b></li>
+        <li><b>Project Manager</b></li>
+      </ul>
+    </td>
+    <td valign="top" width="48%">
+      <h3>🌱 Now Working On</h3>
       <ul>
         <li>Completing my Master’s degree in Information Systems</li>
         <li>Expanding my knowledge in <b>AI, Data Science, and Machine Learning</b></li>
       </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="48%">
       <h3>💪 Personal Challenges</h3>
       <ul>
         <li>Waking up early to optimize productivity</li>
