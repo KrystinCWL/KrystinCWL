@@ -109,6 +109,12 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![img](https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL)
 ![Krystin's Github Stats](https://github-readme-stats.vercel.app/api?username=KrystinCWL&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+<br>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrystinCWL&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
+
 <!--
 
 **KrystinCWL/KrystinCWL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
