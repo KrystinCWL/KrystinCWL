@@ -108,8 +108,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL&layout=compact&hide_border=true&title_color=F0F0F0&icon_color=00A0C6&text_color=A0A0A0&bg_color=1E1E1E&theme=dark" alt="Most Used Languages" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=KrystinCWL&show_icons=true&hide_border=true&title_color=F0F0F0&icon_color=00A0C6&text_color=A0A0A0&bg_color=1E1E1E&theme=dark" alt="Krystin's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrystinCWL&show_icons=true&hide_border=true&issues,prs=true&hide=contribs&hide_rank=true&title_color=F0F0F0&icon_color=00A0C6&text_color=A0A0A0&bg_color=1E1E1E&theme=dark" alt="Krystin's Github Stats" />
 </p>
 
 <!--
