@@ -1,9 +1,9 @@
-## Hi there 👋 I'm Krystin  
+## Hi there 👋 I'm Krystin  <div align="right"> ![ViewCount](https://views.whatilearened.today/views/github/KrystinCWL/KrystinCWL.svg?cache=remove) </div>
 
-![ViewCount](https://views.whatilearened.today/views/github/KrystinCWL/KrystinCWL.svg?cache=remove)
-[![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/KrystinCWL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/KrystinCWL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chen-wei-lee-krystin/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:krystin.cw.lee@gmail.com)
+
 
 <img width="25%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
@@ -48,7 +48,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ### 💻 Programming Languages & Tools  
 **AI & Machine Learning**: 
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=flat&logo=openai&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI_Agent-0F9D58?style=flat&logo=googleassistant&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-0F9D58?style=flatlogo=googleassistant&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-005571?style=flat&logo=fastapi&logoColor=white)
