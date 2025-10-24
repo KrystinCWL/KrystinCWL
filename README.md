@@ -75,6 +75,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-18385C?style=flat&logo=Snowflake&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
@@ -107,8 +108,8 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL&layout=compact&hide_border=true&title_color=F0F0F0&icon_color=00A0C6&text_color=A0A0A0&bg_color=1E1E1E&theme=dark" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KrystinCWL&show_icons=true&hide_border=true&issues,prs=true&hide=contribs&hide_rank=true&title_color=F0F0F0&icon_color=00A0C6&text_color=A0A0A0&bg_color=1E1E1E&theme=dark" alt="Krystin's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrystinCWL&show_icons=true&icon_color=00A0C6&layout=compact&hide=contribs&hide_rank=true&theme=dark" alt="Krystin's Github Stats" />
 </p>
 
 <!--
