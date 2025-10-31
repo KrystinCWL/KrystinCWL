@@ -48,10 +48,11 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ### 💻 Programming Languages & Tools  
 **AI & Machine Learning**: 
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=flat&logo=openai&logoColor=white)
+![LLM Chatbot](https://img.shields.io/badge/LLM_Chatbot-5D3FD3?style=flat&logo=openai&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI_Agent-0F9D58?style=flatlogo=googleassistant&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-005571?style=flat&logo=fastapi&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-005571?style=flat&logo=fastapi&logoColor=white)
 
 **Programming**: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
