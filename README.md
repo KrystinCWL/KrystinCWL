@@ -45,6 +45,15 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 
 ---
 
+<p align="center">
+  [![AWS Cloud Foundations Badge](https://images.credly.com/size/150x150/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob)](https://www.credly.com/badges/2e9b64e2-caf1-4de6-bb39-706334f1eef7/public_url)
+  [![IBM Applied Data Science with Python](https://images.credly.com/size/150x150/images/90b92982-adc0-4826-afeb-455be8609899/blob)](https://www.credly.com/badges/82a9e39a-bc0d-4681-8d8b-0c3c2e8b50f0/public_url)
+  [![IBM Data Analysis Using Python](https://images.credly.com/size/150x150/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob)](https://www.credly.com/badges/ea839e90-a5d1-469f-ae3f-9c23d8348e94/public_url)
+  [![IBM Data Visualization Using Python](https://images.credly.com/size/150x150/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob)](https://www.credly.com/badges/e12543cf-6f42-4440-b766-635a3fed8ef6/public_url)
+  [![IBM Machine Learning with Python](https://images.credly.com/size/150x150/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob)](https://www.credly.com/badges/5b1d3d88-6d8e-409b-9125-0bf726d86e87/public_url)
+  [![IBM Python for Data Science](https://images.credly.com/size/150x150/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](https://www.credly.com/badges/ad510837-ab75-47e3-af93-18eb6443968f/public_url)
+</p>
+
 ### 💻 Programming Languages & Tools  
 **AI & Machine Learning**: 
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=flat&logo=openai&logoColor=white)
