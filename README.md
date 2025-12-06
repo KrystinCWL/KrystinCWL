@@ -70,7 +70,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 **AI & Machine Learning**: 
 ![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-FF6F00?style=flat&logo=openai&logoColor=white)
 ![LLM Chatbot](https://img.shields.io/badge/LLM_Chatbot-5D3FD3?style=flat&logo=openai&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI_Agent-0F9D58?style=flatlogo=googleassistant&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI_Agent-0F9D58?style=flat&logo=googleassistant&logoColor=white)
 ![API Integration](https://img.shields.io/badge/API_Integration-005571?style=flat&logo=fastapi&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8E44AD?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -125,7 +125,6 @@ I enjoy transforming complex data into actionable insights and leveraging techno
 ![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-217346?style=flat&logo=microsoftplanner&logoColor=white)
 ![Stakeholder Management & Communication](https://img.shields.io/badge/Stakeholder_Management_&_Communication-0D9488?style=flat&logo=googlemeet&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats
@@ -133,6 +132,7 @@ I enjoy transforming complex data into actionable insights and leveraging techno
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystinCWL&layout=compact&theme=dark" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=KrystinCWL&show_icons=true&icon_color=00A0C6&layout=compact&hide=contribs&hide_rank=true&theme=dark" alt="Krystin's Github Stats" />
 </p>
+
 
 <!--
 
