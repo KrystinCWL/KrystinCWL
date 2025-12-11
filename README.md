@@ -64,6 +64,9 @@ I enjoy transforming complex data into actionable insights and leveraging techno
   <a href="https://www.credly.com/badges/ad510837-ab75-47e3-af93-18eb6443968f/public_url">
     <img src="https://images.credly.com/size/150x150/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="120px" alt="IBM Python for Data Science"/>
   </a>
+  <a href="https://www.datacamp.com/certificate/DAA0011211738999">
+    <img src="https://github.com/user-attachments/assets/4b40adf2-62cc-47b0-9d89-1e8b9fcd0ad6" width="120px" alt="Datacamp Associate Data Analyst"/>
+  </a>
 </p>
 
 ### 💻 Programming Languages & Tools  
