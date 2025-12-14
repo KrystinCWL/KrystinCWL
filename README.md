@@ -8,7 +8,7 @@
 <img width="25%" alt="gif-hello-world" src="https://github.com/user-attachments/assets/3daf5ea9-a9c6-47dd-92cb-3fc449380f20" align="right" />
 
 ### 🎓 About Me  
-I’m Krystin — a passionate data-driven problem solver currently pursuing my Master degree in **Information Systems** at the **University of Maryland**.  
+I’m Krystin — a passionate data-driven problem solver currently completing my Master degree in **Information Systems** at the **University of Maryland**.  
 I enjoy transforming complex data into actionable insights and leveraging technology to make strategic business decisions.  
 
 ---
@@ -50,24 +50,25 @@ I enjoy transforming complex data into actionable insights and leveraging techno
     <img src="https://images.credly.com/size/150x150/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="120px" alt="AWS Cloud Foundations Badge"/>
   </a>
   <a href="https://www.credly.com/badges/ea839e90-a5d1-469f-ae3f-9c23d8348e94/public_url">
-    <img src="https://images.credly.com/size/150x150/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" width="120px" alt="IBM Data Analysis Using Python"/>
+    <img src="https://images.credly.com/size/150x150/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" height="120px" alt="IBM Data Analysis Using Python"/>
   </a>
   <a href="https://www.credly.com/badges/e12543cf-6f42-4440-b766-635a3fed8ef6/public_url">
-    <img src="https://images.credly.com/size/150x150/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" width="120px" alt="IBM Data Visualization Using Python"/>
+    <img src="https://images.credly.com/size/150x150/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" height="120px" alt="IBM Data Visualization Using Python"/>
   </a>
   <a href="https://www.credly.com/badges/82a9e39a-bc0d-4681-8d8b-0c3c2e8b50f0/public_url">
-    <img src="https://images.credly.com/size/150x150/images/90b92982-adc0-4826-afeb-455be8609899/blob" width="120px" alt="IBM Applied Data Science with Python"/>
+    <img src="https://images.credly.com/size/150x150/images/90b92982-adc0-4826-afeb-455be8609899/blob" height="120px" alt="IBM Applied Data Science with Python"/>
   </a>
   <a href="https://www.credly.com/badges/5b1d3d88-6d8e-409b-9125-0bf726d86e87/public_url">
-    <img src="https://images.credly.com/size/150x150/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" width="120px" alt="IBM Machine Learning with Python"/>
+    <img src="https://images.credly.com/size/150x150/images/ede27d34-ab6b-4eef-8808-f266564df2a2/blob" height="120px" alt="IBM Machine Learning with Python"/>
   </a>
   <a href="https://www.credly.com/badges/ad510837-ab75-47e3-af93-18eb6443968f/public_url">
-    <img src="https://images.credly.com/size/150x150/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="120px" alt="IBM Python for Data Science"/>
+    <img src="https://images.credly.com/size/150x150/images/b40db465-587f-45eb-a854-af8630a630e7/blob" height="120px" alt="IBM Python for Data Science"/>
   </a>
   <a href="https://www.datacamp.com/certificate/DAA0011211738999">
-    <img src="https://github.com/user-attachments/assets/4b40adf2-62cc-47b0-9d89-1e8b9fcd0ad6" width="120px" alt="Datacamp Associate Data Analyst"/>
+    <img src="https://media.datacamp.com/legacy/Certification/Badges%202024/outline/DA_Associate_-_badge_with_outline.png" height="120px"  alt="Datacamp Associate Data Analyst"/>
   </a>
 </p>
+
 
 ### 💻 Programming Languages & Tools  
 **AI & Machine Learning**: 
